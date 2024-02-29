@@ -5,7 +5,7 @@
 
 
 
-<p align="center"><img src="https://skillicons.dev/icons?i=blender" width="75" height="75"><span style="padding-left:40px;"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=blender" width="75" height="75"><span style="padding-left:100;"></p>
 
 
 <!--
