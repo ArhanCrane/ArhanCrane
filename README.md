@@ -1,7 +1,7 @@
 
-<h1 aligh="center">I am really tired working on it)</h1>
-
-
+<h1 aligh="right">I am really tired working on it)</h1>
+<p>Hello, I am a beginner. I love computer games and I bet that I will change this text.</p>
+<p>I plan to publish something but later because I am tired and I will do it later.</p>
 
 
 ---
