@@ -6,7 +6,8 @@
 
 
 <p>
-  <p align="center"><img src="https://skillicons.dev/icons?i=py"width="150" height="150" ><span style="padding-left:50;"><img src="https://skillicons.dev/icons?i=unity"width="150" height="150" ><span style="padding-left:50;"><img src="https://skillicons.dev/icons?i=cpp"width="150" height="150" ></p>
+  <p align="center"><img src="https://skillicons.dev/icons?i=py"width="150" height="150" > &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img src="https://skillicons.dev/icons?i=unity"width="150" height="150" > &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img src="https://skillicons.dev/icons?i=cpp"width="150" height="150" ></p>
+  <h1 align="center">\&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp/</h1>
   <h1 align="center">\<span style="padding-left:160;">|<span style="padding-left:173;"></h1>
   <p align="center"><img src="https://skillicons.dev/icons?i=discord" width="100" height="100" ><span style="padding-left:40;"><img src="https://skillicons.dev/icons?i=cs" width="100" height="100" ><span style="padding-left:138;"></p>
   <h1 align="center">|</h1>
