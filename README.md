@@ -7,7 +7,7 @@
 
 
 <p align="center"><img src="https://skillicons.dev/icons?i=py,cpp,cs"></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=,empty, empty,unity"></p>
+<p align="right"><img src="https://skillicons.dev/icons?i=unity"></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=blender"></p>
 
 
