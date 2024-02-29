@@ -5,12 +5,7 @@
 
 
 
-<p>
-  <pre align="center"><img src="https://skillicons.dev/icons?i=py"width="150" height="150" >                 <img src="https://skillicons.dev/icons?i=unity"width="150" height="150" >                         <img src="https://skillicons.dev/icons?i=cpp"width="150" height="150" ></pre>
-  <h1 align="center">\&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp/</h1>
-
-<pre align="center">                     <img src="https://skillicons.dev/icons?i=blender" width="75" height="75"></pre>
-</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=blender" width="75" height="75"><span style="padding-left:40px;"></p>
 
 
 <!--
