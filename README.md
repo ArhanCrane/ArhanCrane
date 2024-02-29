@@ -7,12 +7,12 @@
 
 
 <p align="left"><img src="https://skillicons.dev/icons?i=py,cpp,cs"></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>s</p>
+<p>s</p>
+<p>s</p>
+<p>s</p>
+<p>s</p>
+<p>s</p>
 <p align="right"><img src="https://skillicons.dev/icons?i=unity"></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=blender"></p>
 
