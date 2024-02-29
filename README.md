@@ -5,8 +5,8 @@
 
 
 
-<p align="right"><img src="https://skillicons.dev/icons?i=cs" width="90" height="90"></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=unity"width="200" height="200" ></p>
+
+<p align="center"><img src="https://skillicons.dev/icons?i=unity"width="200" height="200" ><img src="https://skillicons.dev/icons?i=cs" width="90" height="90"></p>
 
 
 <p align="center"><img src="https://skillicons.dev/icons?i=blender" width="90" height="90" ></p>
