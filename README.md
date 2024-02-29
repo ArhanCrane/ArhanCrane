@@ -5,7 +5,7 @@
 
 
 ---
-
+<p>Skills which I want develop to</p>
 <p align="center"><img src="https://skillicons.dev/icons?i=py"width="150" height="150"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img src="https://skillicons.dev/icons?i=unity&theme=light"width="150" height="150" > &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img src="https://skillicons.dev/icons?i=cpp"width="150" height="150" ></p>
 <p align="center">/&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp |
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</p>
