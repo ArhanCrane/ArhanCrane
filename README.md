@@ -9,7 +9,7 @@
 <p align="center"><img src="https://skillicons.dev/icons?i=unity"width="200" height="200" ></p>
 
 <p align="right"><img src="https://skillicons.dev/icons?i=unity"></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=blender"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=blender" width="100" height="100" ></p>
 
 
 
