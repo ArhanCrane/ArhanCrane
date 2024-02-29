@@ -6,7 +6,7 @@
 
 
 
-<p align="left"><img src="https://skillicons.dev/icons?i=cpp"  width="320" height="240" ></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=cpp"  width="200" height="200" ></p>
 <p>|</p>
 <p>|</p>
 <p>|</p>
