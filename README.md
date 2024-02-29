@@ -6,7 +6,7 @@
 
 
 
-<p align="center"><img src="https://skillicons.dev/icons?i=py,cpp,c#"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=py,cpp,cs"></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=py,unity"></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=blender"></p>
 
