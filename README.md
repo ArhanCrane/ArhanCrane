@@ -1,11 +1,11 @@
 
 <h1 aligh="right">I am really tired working on it)</h1>
-<p>Hello, I like making computer games. I bet that I will change this text.</p>
-<p>I plan to publish something that can be related to computer game but later because I am tired and I will do it later.</p>
+<p align="center">Hello, I like making computer games. I bet that I will change this text.</p>
+<p align="center">I plan to publish something that can be related to computer game but later because I am tired and I will do it later.</p>
 
 
 ---
-<p>Skills I want to develop</p>
+<p align="center">Skills I want to develop...</p>
 <p align="center"><img src="https://skillicons.dev/icons?i=py"width="150" height="150"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img src="https://skillicons.dev/icons?i=unity&theme=light"width="150" height="150" > &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <img src="https://skillicons.dev/icons?i=cpp"width="150" height="150" ></p>
 <p align="center">/&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp |
     &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</p>
