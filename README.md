@@ -12,7 +12,7 @@
 
 
 <h1 align="left">What I plan to learn</h1>
-<p align="left"><img src="pygame_ICON.png"width="220" height="110"></p>
+<p align="left"><img src="pygame_ICON.png"width="260" height="110"></p>
 
 
 <!--
