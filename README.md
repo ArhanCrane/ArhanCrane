@@ -7,7 +7,8 @@
 
 
 ---
-<h1 align="left">Skills I'm learning...</h1>
+<h1 align="left">I'm learning...</h1>
+<p align="center"><img src="https://skillicons.dev/icons?i=py"width="100" height="100"></p>
 
 
 ---
