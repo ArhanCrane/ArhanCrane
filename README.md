@@ -8,8 +8,8 @@
 
 ---
 <h1 align="left">I'm learning...</h1>
-<p align="left"><img src="https://skillicons.dev/icons?i=cpp"width="100" height="100"></p>
-<p align="left"><img src="SFML_ICON.png"width="100" height="100"></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=cpp"width="100" height="100"><img src="SFML_ICON.png"width="100" height="100"></p>
+<p align="left"><i<img src="https://skillicons.dev/icons?i=unity"width="100" height="100"><img src="https://skillicons.dev/icons?i=cs"width="100" height="100"></p>
 
 
 ---
