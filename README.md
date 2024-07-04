@@ -8,11 +8,11 @@
 
 ---
 <h1 align="left">I'm learning...</h1>
-<!--<p align="left"><img src="https://skillicons.dev/icons?i=cpp"width="100" height="100">&nbsp&nbsp&nbsp<img src="SFML_ICON.png"width="100" height="100"></p>--!>
+<p align="left"><img src="https://skillicons.dev/icons?i=cpp"width="100" height="100">&nbsp&nbsp&nbsp<img src="SFML_ICON.png"width="100" height="100"></p>
 
 
 <!--<h1 align="left">What I plan to learn</h1>--!>
-<p align="left"><img src="pygame_ICON.png"width="260" height="110"></p>
+<p align="left"><img src="OpenGL_ICON.png"width="260" height="110"></p>
 
 
 <!--
