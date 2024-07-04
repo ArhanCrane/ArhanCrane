@@ -12,7 +12,7 @@
 
 
 <h1 align="left">What I plan to learn</h1>
-<p align="left"><img src="OpenGL_ICON.png"width="220" height="110"></p>
+<p align="left"><img src="OpenGL_ICON.png"width="200" height="110"></p>
 
 
 <!--
