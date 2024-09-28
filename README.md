@@ -1,6 +1,6 @@
 
 <h1 aligh="center">I'm a game developer (kinda ^_^)</h1>
-<h1 aligh="center">You will find lots of interesting projects about games. Recently I've started learning C++ and there'll be everything in this language</h1>
+<h1 aligh="center">You will find lots of interesting projects about games. I started learning C++ recently and all projects here will be developed in this program language.</h1>
 <h1 aligh="left">Enjoy!)</h1>
 
 
