@@ -4,5 +4,5 @@
 <h3>3. ToDoList</h3>
 <a href="https://github.com/ArhanCrane/To_do_List">ToDoList</a>
 <h3>A RESTful API which allows users to manage their to-do list.<br>
-- CLI - C++, libcurl library<br>
-- API - Userver, postgresql</h3>
+- CLI: C++, libcurl library<br>
+- API: Userver, postgresql</h3>
