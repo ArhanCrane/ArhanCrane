@@ -2,11 +2,11 @@
 <h1 aligh="center">I'm a game developer (kinda ^_^)</h1>
 <h1 aligh="center">You will find lots of interesting projects about games. I started learning C++ recently and all projects here will be developed in this program language.</h1>
 <h1 aligh="left">Enjoy!)</h1>
-
+-->
 <h1 aligh="center">For my employer/s</h1>
 <h1 aligh="center">Hello there! I'm a backend developer. There're some projects, which I'd like to present to you.</h1>
 
-
+<!--
 ---
 <h1 align="left">I'm learning...</h1>
 <p align="left"><img src="https://skillicons.dev/icons?i=cpp"width="100" height="100">&nbsp&nbsp&nbsp<img src="SFML_ICON.png"width="100" height="100"></p>
