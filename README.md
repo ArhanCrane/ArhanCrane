@@ -3,7 +3,8 @@
 <h1 aligh="center">You will find lots of interesting projects about games. I started learning C++ recently and all projects here will be developed in this program language.</h1>
 <h1 aligh="left">Enjoy!)</h1>
 
-
+<h1 aligh="center">For my employer/s</h1>
+<h1 aligh="center">Hello there! I'm a backend developer. There're some projects, which I'd like to present to you.</h1>
 
 
 ---
